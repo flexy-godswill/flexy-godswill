@@ -1,4 +1,4 @@
-### Hi there 👋:man-raising-hand:
+### Hi there 👋 
 
 <!--
 **flexy-godswill/flexy-godswill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
